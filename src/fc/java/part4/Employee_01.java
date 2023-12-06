@@ -1,4 +1,4 @@
-package part4;
+package fc.java.part4;
 //사원 VO
 public class Employee_01 {
     private String name;

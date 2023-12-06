@@ -1,4 +1,4 @@
-package part4;
+package fc.java.part4;
 //일반사원
 public class RempVO_01 extends Employee_01{
     public RempVO_01(){

@@ -1,4 +1,4 @@
-package part4;
+package fc.java.part4;
 
 import fc.java.model.*;
 

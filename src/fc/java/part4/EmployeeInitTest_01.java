@@ -1,4 +1,4 @@
-package part4;
+package fc.java.part4;
 
 public class EmployeeInitTest_01 {
     public static void main(String[] args) {
