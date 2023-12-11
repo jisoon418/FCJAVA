@@ -11,6 +11,5 @@ public class ConstructorInit {
         PersonVO vo1=new PersonVO();
         System.out.println(vo1.getName()+"\t"+vo1.getAge()+"\t"+vo1.getPhone());
 
-        //원하는 값으로 초기화를 하는 방법?
     }
 }
